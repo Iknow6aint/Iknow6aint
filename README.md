@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iknow6aint
 - 
-- 👀 I’m interested in providing solutions to the work through progressive thinking 
+- 👀 I’m interested in providing solutions to the world through progressive thinking 
 
 - 🌱 I’m a Backend developer but still have the ability to  work well with frontend developers
 
