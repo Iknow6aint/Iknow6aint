@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in providing solutions to the world through progressive thinking 
 
-- 🌱 I’m a Backend developer but still have the ability to  work well with frontend developers
+- 🌱 I’m a Backend developer but still have the ability to  work well with frontend developers and frameworks
 
 - 💞️ I’m looking to collaborate on More backend developers 
 - 
