@@ -15,7 +15,9 @@
 
 
 - 👀 My current Tech stack is Javascript(React,Node,Express) Databse MongoDb but experence with Sql buildin to become a complete fullstack  developer
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/iknow6aint=DenverCoder1)](https://git.io/streak-stats)
 <!---
 Iknow6aint/Iknow6aint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/iknow6aint=DenverCoder1)](https://git.io/streak-stats)
 --->
